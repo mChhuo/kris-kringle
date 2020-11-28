@@ -1,0 +1,6 @@
+Merry Christmas ${PERSON_NAME},
+
+I will be unable to get presents for everyone this year. I need you to get ${RECEIVER} a present this year. 
+
+Happy holidays,
+Santa Claus
