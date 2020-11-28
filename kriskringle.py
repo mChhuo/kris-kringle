@@ -6,7 +6,8 @@ from string import Template
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-MY_ADDRESS = 'christkringle7@gmail.com'
+# Enter your email address here
+MY_ADDRESS = 'your-email@email.com' # Senders email #
 PASSWORD = input("Please enter your password:\n")
 
 # Returns two lists one of names and one of email addresses
